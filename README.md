@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sumanjit
+- 👋 Hi, I’m Dr. Sumanjit
 - 👀 I’m interested in Machine learning 
 - 🌱 I’m currently learning Machine learning in Material Science
 - 💞️ I’m looking to collaborate on ...
